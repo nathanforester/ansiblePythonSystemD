@@ -3,10 +3,10 @@
   ignore_errors: yes
   roles:
 
-    - environment
-    - proxy
-    - py
-    - run
+    - env
+    - nginx
+    - python
+    - running
     
 
 
